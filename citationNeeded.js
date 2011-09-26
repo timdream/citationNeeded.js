@@ -158,7 +158,7 @@
 			function (text) {
 				var replacedText = text.replace(
 					new RegExp(selection.text),
-					selection.text + '{{Fact|time=' + (new Date()).toISOString().replace(/\.\d+Z$/, 'Z') + '}}'
+					selection.text + '{{Fact|' + selection.text + '|time=' + (new Date()).toISOString().replace(/\.\d+Z$/, 'Z') + '}}'
 				);
 
 				if (replacedText.length === text.length) {
