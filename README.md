@@ -13,7 +13,7 @@ Being told I should not criticize the project without contributing to it, as a w
 
 ## What it does
 
-When installed to your Wikipedia account, each time when you select text of an article, a **[citation needed]** button will should up near your cursor, when clicked, it will mark the selected text as citation needed upon confirmation.
+When installed to your Wikipedia account, each time when you select text of an article, a **[citation needed]** button will show up near your cursor, when clicked, it will mark the selected text as citation needed upon confirmation.
 
 ## What it doesn't do
 
